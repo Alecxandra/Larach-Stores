@@ -1,0 +1,20 @@
+.button_store{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 10px;
+	font-size: 16px;
+}
+
+.button_store:hover {
+	background-color: #3898EC;
+	color: white;
+}
+
+#store-map{
+	width: 100%;
+	height: 600px;
+}
+
+.container-map{
+	padding-top: 40px;
+}

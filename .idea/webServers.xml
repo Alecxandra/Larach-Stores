@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0d48bf2a-5fd2-46e4-b91e-95567d15711f" name="premperhn.com" url="http://premperhn.com">
+        <fileTransfer host="premperhn.com" port="22" rootFolder="/var/chroot/home/content/58/8598558" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
